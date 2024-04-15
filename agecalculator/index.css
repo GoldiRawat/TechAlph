@@ -8,7 +8,7 @@
 }
 
 body {
-    background: #78c1f3;
+    background: #a7b68f;
     min-height: 100vh;
     display: flex;
     align-items: center;
@@ -16,7 +16,7 @@ body {
 }
 
 .container {
-    background: #ffffff;
+    background: #c5d8e3;
     padding: 25px;
     width: 450px;
     border-radius: 10px;
@@ -33,25 +33,26 @@ body {
     align-items: center;
     border-radius: 30px;
     margin-bottom: 15px;
-    background: #78c1f3;
+    background: #a7b68f;
 }
 
 .input-box input {
     flex: 1;
     background: transparent;
+    text:bold;
     border: none;
     outline: none;
     padding: 15px;
-    font-size: 18px;
-    color: #ffffff;
+    font-size: 20px;
+    color: #397f96;
     cursor: pointer;
 }
 #calculate{
-    background-color: orange;
+    background-color: rgb(226, 213, 64);
     position: relative;
     font-size: 1rem;
     font-weight: bold;
-    color: white;
+    color: rgb(24, 78, 107);
     padding: 18px 10px;
     border-radius: 30px;
     outline: none;
