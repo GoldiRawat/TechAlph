@@ -39,7 +39,6 @@ body {
 .input-box input {
     flex: 1;
     background: transparent;
-    text:bold;
     border: none;
     outline: none;
     padding: 15px;
